@@ -1,8 +1,0 @@
-pdb commands
-
-l(ist)
-n(ext)
-c(ontinue)
-r(eturn)
-b(reak)
-
